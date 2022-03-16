@@ -2,7 +2,7 @@
 
 - 🔭 Hoje eu Trabalho com Front End
 - 🌱 Estudando React, Angular e praticando meus conhcimentos 
-- ⚡ Sem suor e dedicação não há conquista!
+- ⚡ O corpo alcança o que a mente acredita!
 ##
 <div align="center">
   <a href="https://github.com/CarlosDanyel">
